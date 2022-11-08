@@ -1,8 +1,8 @@
-<h1 align="center"><project-name></h1>
+<h1 align="center">Flutter Bad Jokes APp</h1>
 
-<p align="center"><project-description></p>
+<p align="center">Bad Jokes app created following a crash course on Flutter and the Dart programming language by Laith Academy
+</p>
 
-Bad Jokes app created following a crash course on Flutter and the Dart programming language by Laith Academy
 
 
 ## Getting Started
